@@ -1,0 +1,26 @@
+{
+  "name": "test grocery list",
+  "dishes": [
+    {
+      "name": "test dish 1",
+      "servings" : 8,
+      "ingredients" : [
+        {
+          "name": "test ingredient 1",
+          "cost": 8,
+          "notes" : "test note"
+        },
+        {
+          "name": "test ingredient 2",
+          "cost": 2,
+          "notes" : ""
+        }
+      ]
+    },
+    {
+      "name": "test dish 2",
+      "servings" : 2,
+      "ingredients" : []
+    }
+  ]
+}
